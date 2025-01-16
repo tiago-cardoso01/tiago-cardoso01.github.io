@@ -20,16 +20,22 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Sobre o projeto"
     url: /docs/quick-start-guide/
-  - title: "About"
+  - title: "Diagramas"
     url: /about/
-  - title: "Sample Posts"
+  - title: "Frontend"
     url: /year-archive/
-  - title: "Sample Collections"
+  - title: "Backend"
     url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
+  - title: "Meta-Analise"
     url: /terms/
+  - title: "Metodologias de Ensino"
+    url: /terms/
+  - title: "Produtos Educacionais"
+    url: /year-archive/
+  - title: "Resultados"
+    url: /collection-archive/
 
 
 # documentation links
