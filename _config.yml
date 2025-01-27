@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "SIREEDU"
 title_separator          : "-"
-subtitle                 : "Sistema Computacional"
+subtitle                 : ""
 name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
 description              : &description " Sistema de Recomendação de Produtos Educacionais e de Metodologias de Ensino por meio de Meta-Análise e Aprendizagem Baseada em Evidências."
 url                      : https://tiago-cardoso01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -191,7 +191,10 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
-  recipes:
+  dev:
+    output: true
+    permalink: /:collection/:path/
+  telas:
     output: true
     permalink: /:collection/:path/
   pets:
@@ -235,33 +238,32 @@ defaults:
       toc_sticky: true
       sidebar:
         nav: "docs"
-  # _recipes
+  # _dev
   - scope:
       path: ""
-      type: recipes
+      type: dev
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _pets
-  - scope:
-      path: ""
-      type: pets
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
+      read_time: false
       author_profile: false
-      share: true
-
+      share: false
+      comments: false
+      toc_sticky: true
+      sidebar:
+        nav: "dev"
+  # _telas
+  - scope:
+      path: ""
+      type: telas
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      toc_sticky: true
+      sidebar:
+        nav: "telas"
 
 # Sass/SCSS
 sass:
