@@ -8,4 +8,4 @@ toc: true
 
 ## Diagrama de arquitetura de alto nível para as principais funcionalidades do projeto
 
-![arquitetura](/assets/images/arquitetura.PNG)
+![arquitetura](/assets/images/arquitetura.png)

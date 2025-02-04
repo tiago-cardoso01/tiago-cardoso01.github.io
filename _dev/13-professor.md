@@ -7,7 +7,7 @@ last_modified_at: 2025-01-25T08:48:05-04:00
 
 O diretório Professor possui o componente individual DataTable, responsável por renderizar uma tabela interativa, que apresenta informações como o ano, semestre, turma e o tipo de estudo aplicado.
 
-![modulos](/assets/images/code12.PNG)
+![modulos](/assets/images/code12.png)
 
 ```jsx
         <div className="professor">

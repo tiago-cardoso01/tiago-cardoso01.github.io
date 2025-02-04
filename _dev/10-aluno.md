@@ -7,7 +7,7 @@ last_modified_at: 2025-01-25T08:48:05-04:00
 
 Novamente temos padrão adotado no projeto, com os dois arquivos principais index.jsx e styles.css, como ilustrado na Figura: O diretório Student contém o componente individual StudyBox, responsável por renderizar os cartões dos estudos de Estilos de Aprendizagem e Inteligências Múltiplas.
 
-![modulos](/assets/images/code4.PNG)
+![modulos](/assets/images/code4.png)
 
 Abaixo temos um trecho do código responsável por renderizar o componente StudyBox para os estudos de Estilos de Aprendizagem e Inteligências Múltiplas.
 

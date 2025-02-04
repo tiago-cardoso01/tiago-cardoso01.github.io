@@ -7,7 +7,7 @@ last_modified_at: 2025-01-25T08:48:05-04:00
 
 A estrutura de arquivos Result contém 3 componentes individuais. O componente EAResult renderiza a tela de resultados de Estilos de Aprendizagem, IMResult renderiza a tela de resultados de Inteligências Múltiplas, e ResultBox renderiza os modelos de pontuação do estudante em cada estudo.
 
-![modulos](/assets/images/code11.PNG)
+![modulos](/assets/images/code11.png)
 
 Trecho do código responsável por renderizar os componentes EAResult e IMResult.
 

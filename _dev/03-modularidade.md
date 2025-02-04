@@ -7,7 +7,7 @@ last_modified_at: 2025-01-25T08:48:05-04:00
 
 Como ilustrado na figura abaixo, a organização dos componentes das páginas da aplicação segue uma abordagem modular. Cada componente de página é autossuficiente e contém todos os recursos necessários para sua funcionalidade.
 
-![modulos](/assets/images/code2.PNG)
+![modulos](/assets/images/code2.png)
 
 A seguir estão os principais pontos dessa organização:
 

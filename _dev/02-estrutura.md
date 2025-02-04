@@ -7,7 +7,7 @@ last_modified_at: 2025-01-25T08:48:05-04:00
 
 A estrutura de pasta adotada foi planejada para seguir as boas práticas de organização de arquivos em React, visando modularidade e escalabilidade do projeto. A Figura abaixo apresenta os principais diretórios e sua distribuição:
 
-![pastas](/assets/images/code1.PNG)
+![pastas](/assets/images/code1.png)
 
 1. public: pasta destinada a arquivos estáticos que não são processados pelo React, como imagens, arquivos de configuração, favicon e index.html.
 

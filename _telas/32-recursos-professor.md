@@ -5,4 +5,4 @@ excerpt: "Tela de Acesso aos Recursos de Recomendações Personalizadas de Objet
 last_modified_at: 2025-01-25T08:48:05-04:00
 ---
 
-![telas](/assets/images/tela36.PNG)
+![telas](/assets/images/tela36.png)

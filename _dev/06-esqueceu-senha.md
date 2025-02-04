@@ -7,7 +7,7 @@ last_modified_at: 2025-01-25T08:48:05-04:00
 
 Novamente temos padrão adotado no projeto, com os dois arquivos principais index.jsx e styles.css, como ilustrado na Figura:
 
-![modulos](/assets/images/code5.PNG)
+![modulos](/assets/images/code5.png)
 
 O código a seguir apresenta o trecho central da função PasswordReset. Ao preencher o campo de e-mail e submeter o formulário, o usuário é redirecionado para uma tela de confirmação de envio de e-mail.
 

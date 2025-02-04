@@ -13,7 +13,7 @@ Como ilustrado na Figura abaixo, a Landing Page é organizada em seções distin
 4. Intended: explica o público-alvo, fornecendo mais contexto aos usuários.
 5. OurOffer: mostra os recursos oferecidos.
 
-![modulos](/assets/images/code3.PNG)
+![modulos](/assets/images/code3.png)
 
 O código ilustra a função LandingPage, responsável por retornar os elementos JSX que representam a página. É possível observar que as seções são estruturadas utilizando a tag <section>, proporcionando melhor acessibilidade e SEO.
 

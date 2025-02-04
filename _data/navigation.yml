@@ -6,13 +6,10 @@ main:
   - title: "Desenvolvimento"
     url: /dev/resume/
   - title: "Telas"
-    url: /telas/login/
-  - title: "Meta-Analise"
-    url: /terms/
+  - title: "Objetos Educacionais"
+    url: /objetos/introducao/
   - title: "Metodologias de Ensino"
-    url: /terms/
-  - title: "Produtos Educacionais"
-    url: /year-archive/
+    url: /metodologias/introducao/
   - title: "Resultados"
     url: /collection-archive/
 
@@ -147,3 +144,21 @@ telas:
         url: /telas/rpme/
       - title: "Acesso as Informações de Metodologia de Ensino para a Turma"
         url: /telas/infome/
+objetos:
+  - title: Objetos Educacionais
+    children:
+      - title: "Introdução"
+        url: /objetos/introducao/
+      - title: "Inteligências Múltiplas"
+        url: /objetos/im/
+      - title: "Estilos de Aprendizagem"
+        url: /objetos/estilos/
+      - title: "Lógica Fuzzy"
+        url: /objetos/fuzzy/
+metodologias:
+  - title: Metodologias de Ensino
+    children:
+      - title: "Introdução"
+        url: /metodologias/introducao/
+      - title: "Lógica de Programação"
+        url: /metodologias/lp/

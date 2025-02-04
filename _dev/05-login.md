@@ -7,7 +7,7 @@ last_modified_at: 2025-01-25T08:48:05-04:00
 
 A página de Login segue o padrão adotado no projeto, com os dois arquivos principais index.jsx e styles.css, conforme ilustrado na Figura:
 
-![modulos](/assets/images/code4.PNG)
+![modulos](/assets/images/code4.png)
 
 O código abaixo apresenta um trecho do formulário de login, contendo os campos de e-mail e senha. Nela, destaca-se a obrigatoriedade do uso de um e-mail institucional como requisito para acessar o sistema.
 

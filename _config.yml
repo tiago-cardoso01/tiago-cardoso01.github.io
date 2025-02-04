@@ -197,7 +197,10 @@ collections:
   telas:
     output: true
     permalink: /:collection/:path/
-  pets:
+  objetos:
+    output: true
+    permalink: /:collection/:path/
+  metodologias:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -264,6 +267,32 @@ defaults:
       toc_sticky: true
       sidebar:
         nav: "telas"
+  # _objetos
+  - scope:
+      path: ""
+      type: objetos
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      toc_sticky: true
+      sidebar:
+        nav: "objetos"
+  # _metodologias
+  - scope:
+      path: ""
+      type: metodologias
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      toc_sticky: true
+      sidebar:
+        nav: "metodologias"
 
 # Sass/SCSS
 sass:

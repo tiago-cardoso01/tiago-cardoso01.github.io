@@ -5,4 +5,4 @@ excerpt: "Tela de Acesso aos Recursos de Recomendações Personalizadas de Metod
 last_modified_at: 2025-01-25T08:48:05-04:00
 ---
 
-![telas](/assets/images/tela38.PNG)
+![telas](/assets/images/tela38.png)

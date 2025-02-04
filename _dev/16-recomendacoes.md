@@ -7,7 +7,7 @@ last_modified_at: 2025-01-25T08:48:05-04:00
 
 O diretório Recommendation possui 4 componentes individuais. Os componentes MA, ME e PE renderizam, respectivamente, as telas de Recomendações de Materiais de Apoio, Metodologias de Ensino e Produtos Educacionais. O componente RecommendationCard, renderiza os cartões de recomendação.
 
-![modulos](/assets/images/code15.PNG)
+![modulos](/assets/images/code15.png)
 
 O trecho de código ilustrado no código mostra a renderização do componente Recommendation para os produtos recomendados.
 

@@ -7,7 +7,7 @@ last_modified_at: 2025-01-25T08:48:05-04:00
 
 O diretório Analytical possui o componente individual DataTable, responsável por renderizar cada tabela de estudo ou inteligência.
 
-![modulos](/assets/images/code14.PNG)
+![modulos](/assets/images/code14.png)
 
 O trecho de código ilustrado mostra a etapa em que os dados exibidos na página de relatório analitico são tratados para serem usados nas tabelas (setDataTableData) e na exportação em CSV (setCsvData).
 
