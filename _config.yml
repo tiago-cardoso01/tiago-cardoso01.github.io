@@ -203,6 +203,9 @@ collections:
   metodologias:
     output: true
     permalink: /:collection/:path/
+  resultados:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -293,6 +296,19 @@ defaults:
       toc_sticky: true
       sidebar:
         nav: "metodologias"
+  # _resultados
+  - scope:
+      path: ""
+      type: resultados
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      toc_sticky: true
+      sidebar:
+        nav: "resultados"
 
 # Sass/SCSS
 sass:

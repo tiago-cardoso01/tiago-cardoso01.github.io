@@ -11,7 +11,7 @@ main:
   - title: "Metodologias de Ensino"
     url: /metodologias/introducao/
   - title: "Resultados"
-    url: /collection-archive/
+    url: /resultados/overview/
 
 # documentation links
 docs:
@@ -162,3 +162,8 @@ metodologias:
         url: /metodologias/introducao/
       - title: "Lógica de Programação"
         url: /metodologias/lp/
+resultados:
+  - title: Resultados
+    children:
+      - title: "Visão Geral"
+        url: /resultados/overview/
