@@ -6,6 +6,7 @@ main:
   - title: "Desenvolvimento"
     url: /dev/resume/
   - title: "Telas"
+    url: /telas/login/
   - title: "Objetos Educacionais"
     url: /objetos/introducao/
   - title: "Metodologias de Ensino"
