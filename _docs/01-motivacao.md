@@ -10,7 +10,7 @@ toc: true
 
 ## Os alunos e professores sentem falta de mais ferramentas disponíveis para utilizar durante o período de ensino-aprendizagem da disciplina?
 
-Há uma necessidade em disponibilizar produtos educacionais (metodologias de ensino e objetos de aprendizagem) para alunos e professores. É importante que esses produtos educacionais sejam disponibilizados de acordo com o perfil do aluno e da turma. Portanto, há uma necessidade em integrar as Metodologias de Ensino (ME) com Produtos Educacionais (PE) para o ensino em sala de aula gerando, portanto, uma lista de recomendação de acordo com os perfis do aluno e da turma.
+Há uma necessidade em disponibilizar objetos educacionais (metodologias de ensino e objetos de aprendizagem) para alunos e professores. É importante que esses objetos educacionais sejam disponibilizados de acordo com o perfil do aluno e da turma. Portanto, há uma necessidade em integrar as Metodologias de Ensino (ME) com Objetos Educacionais (OE) para o ensino em sala de aula gerando, portanto, uma lista de recomendação de acordo com os perfis do aluno e da turma.
 
 ### Lista de recomendação
 

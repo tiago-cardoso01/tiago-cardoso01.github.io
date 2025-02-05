@@ -21,7 +21,7 @@ Abaixo temos um trecho do código responsável por renderizar o componente Study
                 <div className="student-message-container">
                     <div className="student-text-section fade-in">
                         <p className="secondary-text">
-                            Seja bem-vindo(a) ao Sistema de Recomendação de Produtos Educacionais e Metodologias de 
+                            Seja bem-vindo(a) ao Sistema de Recomendação de Objetos Educacionais e Metodologias de 
                             Ensino baseado na terorias das inteligências Múltiplas (SIREEDU).
                         </p>
                     </div>
@@ -79,7 +79,7 @@ Abaixo temos um trecho do código responsável por renderizar o componente Study
                             recommendations={
                                 [{  
                                     id: 1,
-                                    title: 'Produtos Educacionais',
+                                    title: 'Objetos Educacionais',
                                     color: 'ligth-blue-color',
                                     background: 'bg-ligth-blue',
                                     icon: <ImportantDevicesIcon />,

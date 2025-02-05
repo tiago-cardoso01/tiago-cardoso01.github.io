@@ -54,7 +54,7 @@ O diretório Professor possui o componente individual DataTable, responsável po
                                 [
                                     {  
                                         id: 1,
-                                        title: 'Produtos Educacionais',
+                                        title: 'Objetos Educacionais',
                                         color: 'ligth-blue-color',
                                         background: 'bg-ligth-blue',
                                         icon: <ImportantDevicesIcon />,
