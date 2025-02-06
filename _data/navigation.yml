@@ -154,8 +154,6 @@ objetos:
         url: /objetos/im/
       - title: "Estilos de Aprendizagem"
         url: /objetos/estilos/
-      - title: "Lógica Fuzzy"
-        url: /objetos/fuzzy/
 metodologias:
   - title: Metodologias de Ensino
     children:

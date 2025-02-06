@@ -16,7 +16,7 @@ Os dados disponibilizados pelo SIREEDU permitem a análise do perfil cognitivo d
 
 Em relação ao grau de desenvolvimento das inteligências, verificaram-se percentuais mais elevados para a Lógico-Matemática (capacidade de apresentar pensamento/raciocínio indutivo e dedutivo) e a Intrapessoal (capacidade de autoconhecimento, autorreflexão e autoestima) em 2018; a Verbal-Linguística(capacidade de usar as palavras de forma clara e objetiva) e a Lógico-Matemática em 2019; e Verbal-Linguística e Visual-espacial (capacidade de perceber o mundo visual e espacial de forma tridimensional) em 2020.
 
-![porcentagens](/assets/images/results1.png)
+![porcentagens](/assets/images/results1.PNG)
 
 As inteligências com menor predominância foram Interpessoal (capacidade da comunicação eficaz e da inter-relação equilibrada entre as pessoas) em 2018, a Rítmico-musical (capacidade de entender a linguagem sonora e de se expressar por meio dela) em 2019 e a Naturalista (capacidade de identificar, compreender e classificar os fenômenos da natureza e organizá-los de maneira harmoniosa) em 2020.
 
@@ -51,7 +51,7 @@ Os atributos (2), (4), (5), (6) e (8), classificados como “atrativos” corres
 
 É possível considerar o atributo (7) como “unidimensional”, o que significa que quanto maior o número de informações para estimular as habilidades cognitivas, maior será a satisfação do usuário.
 
-![diagrama](/assets/images/results2.png)
+![diagrama](/assets/images/results2.PNG)
 
 Além das questões referentes ao modelo Kano, também foi disponibilizado no questionário uma questão aberta para que os estudantes pudessem sugerir melhorias no SIREEDU. As recomendações mais citadas foram: facilitar o acesso ao sistema, otimizá-lo e inserção de mais informações sobre o perfil cognitivo.
 
