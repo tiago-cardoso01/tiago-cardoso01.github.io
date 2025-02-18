@@ -9,10 +9,10 @@ main:
     url: /telas/login/
   - title: "Objetos Educacionais"
     url: /objetos/introducao/
-  - title: "Metodologias de Ensino"
-    url: /metodologias/introducao/
   - title: "Resultados"
     url: /resultados/overview/
+  - title: "Referências Bibliográficas"
+    url: /referencias/lista/
 
 # documentation links
 docs:
@@ -30,8 +30,14 @@ docs:
         url: /docs/funcionalidades/
       - title: "Arquitetura"
         url: /docs/arquitetura/
+      - title: "Links"
+        url: /docs/links/
       - title: "Tecnologias Utilizadas"
         url: /docs/tecnologias/
+  - title: Diagramas
+    children:
+      - title: "Casos de Uso"
+        url: /docs/casodeuso/
 
 # dev links
 dev:
@@ -71,6 +77,10 @@ dev:
         url: /dev/analitico/
       - title: "Recomendações"
         url: /dev/recomendacoes/
+  - title: Banco de Dados
+    children:
+      - title: "Diagrama Relacional"
+        url: /dev/diagrama/    
 # telas links
 telas:
   - title: Telas do Sistema
@@ -154,15 +164,19 @@ objetos:
         url: /objetos/im/
       - title: "Estilos de Aprendizagem"
         url: /objetos/estilos/
-metodologias:
-  - title: Metodologias de Ensino
+  - title: Exemplos de Utilização
     children:
       - title: "Introdução"
-        url: /metodologias/introducao/
+        url: /objetos/exemplosintro/
       - title: "Lógica de Programação"
-        url: /metodologias/lp/
+        url: /objetos/lp/
 resultados:
   - title: Resultados
     children:
       - title: "Visão Geral"
         url: /resultados/overview/
+referenciais:
+  - title: Referências Bibliográficas
+    children:
+      - title: "Lista de Referências"
+        url: /referencias/lista/

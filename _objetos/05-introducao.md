@@ -1,6 +1,6 @@
 ---
-title: "Introdução"
-permalink: /metodologias/introducao/
+title: "Introdução Exemplos"
+permalink: /objetos/exemplosintro/
 excerpt: ""
 last_modified_at: 2025-01-26T08:48:05-04:00
 redirect_from:
