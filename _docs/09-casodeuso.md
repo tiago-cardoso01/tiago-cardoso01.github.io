@@ -8,11 +8,17 @@ redirect_from:
 toc: true
 ---
 
-### Primeiro Acesso
-![acesso](/assets/images/diagramabd.png)
+### Acesso ao Sistema
+![acesso](/assets/images/PrimeiroAcesso.png)
 
 ### Responder os Questionários
-![questionarios](/assets/images/diagramabd.png)
+![questionarios](/assets/images/respquestionario.png)
 
-### Visualizar os Resultados
-![resultados](/assets/images/diagramabd.png)
+### Visualizar os Resultados dos Questionários
+![resultados](/assets/images/resultquestionario.png)
+
+### Visualizar os Objetos Educacionais
+![resultados](/assets/images/visualizaroe.png)
+
+### Visualizar os Resultados das Turmas Cadastradas
+![turma](/assets/images/professor.png)

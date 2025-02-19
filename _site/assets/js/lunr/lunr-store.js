@@ -150,7 +150,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Casos de Uso",
-        "excerpt":"Primeiro Acesso     Responder os Questionários     Visualizar os Resultados    ","categories": [],
+        "excerpt":"Acesso ao Sistema     Responder os Questionários     Visualizar os Resultados dos Questionários     Visualizar os Objetos Educacionais     Visualizar os Resultados das Turmas Cadastradas    ","categories": [],
         "tags": [],
         "url": "/docs/casodeuso/",
         "teaser": null
